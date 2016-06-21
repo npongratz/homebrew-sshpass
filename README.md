@@ -12,7 +12,7 @@ Be responsible. You can shoot your foot off by using this. DO NOT use sshpass to
 
     $ # download this file
     $ brew install ./sshpass.rb
-    $ % sshpass -V
+    $ sshpass -V
     sshpass 1.05 (C) 2006-2011 Lingnu Open Source Consulting Ltd.
     This program is free software, and can be distributed under the terms of the GPL
     See the COPYING file for more information.
