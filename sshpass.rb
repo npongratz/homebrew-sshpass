@@ -1,5 +1,5 @@
-# To use, download this file (sshpass.rb) and run brew install:
-#   $ brew install ./sshpass.rb
+# To install sshpass using homebrew:
+#   $ brew install https://raw.githubusercontent.com/npongratz/homebrew-sshpass/master/sshpass.rb
 
 # History:
 #  Originally cloned from https://raw.githubusercontent.com/eugeneoden/homebrew/eca9de1/Library/Formula/sshpass.rb
