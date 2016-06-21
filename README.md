@@ -10,8 +10,7 @@ Be responsible. You can shoot your foot off by using this. DO NOT use sshpass to
 
 ## Installation
 
-    $ # download this file
-    $ brew install ./sshpass.rb
+    $ brew install https://raw.githubusercontent.com/npongratz/homebrew-sshpass/master/sshpass.rb
     $ sshpass -V
     sshpass 1.05 (C) 2006-2011 Lingnu Open Source Consulting Ltd.
     This program is free software, and can be distributed under the terms of the GPL
